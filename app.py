@@ -42,10 +42,10 @@ if build_scatter:
 
     fig_scatter = px.scatter(
         car_data,
-        x="odometer",
-        y="price",
-        color="condition",
-        hover_data=['model', 'year'],
+        x='odometer',
+        y='price',
+        color='condition',
+        hover_data=['model_year'],
         title='Preço (Y) versus Quilometragem (X)'
     )
 
