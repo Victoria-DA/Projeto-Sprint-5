@@ -45,7 +45,7 @@ if build_scatter:
         x='odometer',
         y='price',
         color='condition',
-        hover_data=['model_year'],
+        hover_data=['model_year'],  # <--- CORRIGIDO
         title='Preço (Y) versus Quilometragem (X)'
     )
 
