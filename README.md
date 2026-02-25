@@ -1,5 +1,7 @@
 Vehicle Advertisement Data Dashboard
+
 Project Overview
+
 This project focuses on a comprehensive Exploratory Data Analysis (EDA) of vehicle advertisement data. The main goal was to build an interactive dashboard that allows users to visualize market trends, price distributions, and vehicle conditions.
 
 Live Demo
@@ -20,4 +22,5 @@ Data Visualization: Dynamic charts that update based on user interaction (check-
 Price Analysis: Comparison of vehicle prices across different categories and odometer readings.
 
 Cloud Deployment: Fully functional web app hosted on Render.
+
 
