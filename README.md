@@ -1,3 +1,5 @@
+![Visualização do Dashboard](dashboard.png)
+
 Vehicle Advertisement Data Dashboard
 
 Project Overview
@@ -21,6 +23,7 @@ Data Visualization: Dynamic charts that update based on user interaction (check-
 Price Analysis: Comparison of vehicle prices across different categories and odometer readings.
 
 Cloud Deployment: Fully functional web app hosted on Render.
+
 
 
 
